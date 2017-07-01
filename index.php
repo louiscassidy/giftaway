@@ -2,12 +2,12 @@
 
 <head>
   <script src="https://apis.google.com/js/platform.js" async defer></script>
-  <meta name="google-signin-client_id" content="YOUR_CLIENT_ID.apps.googleusercontent.com">
+  <meta name="google-signin-client_id" content="852679874461-moqtf6jdf4s71bpnjhtb4drq15qm6et6.apps.googleusercontent.com.apps.googleusercontent.com">
 </head>
 
 <body>
 
-<div class="g-signin2" data-onsuccess="signin.php"></div>
+<div class="g-signin2" data-onsuccess="signin.js"></div>
 
 </body>
 </html>
